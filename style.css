@@ -1,0 +1,118 @@
+body {
+    margin: 0;
+    padding: 0;
+    color: #161616;
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    background: #f6f6f6;
+}
+
+#hero {
+    background-image: url("images/coralGablesCanal.png");
+    background-size: cover;
+    padding: 10px 40px 40px 0;
+
+}
+
+#hero h1 {
+    margin: 33% 0 0;
+    font-size: 3.4rem;
+    color: #fff;
+    text-shadow: 0 0 2px #fff;
+}
+
+#hero h3 {
+    margin-top:0 ;
+    color: #fff;
+    text-shadow: 0 0 1px #fff;
+    letter-spacing: .5px;
+    font-size: 1.3em;
+}
+#main-logo {
+    width: 100px;
+}
+
+.top-hl {
+margin: 20px 70px 20px 0;
+}
+
+
+.top-areas {
+    display: flex;
+    width: 90%;
+    justify-content: center;
+    margin-left: 70px;
+}
+.area {
+    max-width: 475px;
+    
+}
+
+.area-img {
+    width: 200px;
+    height: 200px;
+    border-radius: 50%;
+
+}
+
+.area p {
+margin: 0 50px;
+}
+
+.cards {
+   display: flex;
+   justify-content: center;
+   margin: 30px 30px;
+   
+}
+
+.avatar {
+    width: 150px;
+    height: 150px;
+}
+
+.card {
+    width: 400px;
+    padding: 20px;
+    display: flex;
+    margin: 40px;
+    justify-content: space-around;
+    text-align: center;
+    background: #ddebf8;
+    color: #2b2839;
+    border-bottom: 6px solid #d8cefe;
+    font-size: 12px;
+    margin-left: 10px;
+
+}
+.card-info h3 {
+    font-size: 2em;
+    margin-bottom: 5px;
+}
+.card-info p, h4 {
+    margin-top: 0;
+    font-size: 1.5em;
+    margin-bottom: 0;
+}
+
+.card-info a {
+    display: block;
+    margin: 5px 0 15px;
+    font-size: 1.4em;
+    text-decoration: none;
+    color: #2b2839;
+}
+.card-info a:hover{
+    font-size: 1.6em;
+
+}
+
+.border-blue {
+    border: 1px dotted blue;
+}
+.remax {
+    width: 25px;
+}
+
+
+
