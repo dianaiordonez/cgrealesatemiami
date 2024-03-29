@@ -5,6 +5,7 @@ body {
     text-align: center;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     background: #f6f6f6;
+    margin: 0 auto;
 }
 
 #hero {
@@ -42,7 +43,6 @@ margin: 20px 70px 20px 0;
     display: flex;
     width: 90%;
     justify-content: center;
-    margin-left: 70px;
 }
 .area {
     max-width: 475px;
